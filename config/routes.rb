@@ -1,3 +1,7 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  root "articles#index"
+
+
+  # this shows that the get request of /articles will go to the articles controller and index method
+  get "/articles", to: "articles#index"
 end

@@ -1,24 +1,7 @@
-# README
+# Basic Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a chance for me to review the Getting Started with Rail tutorial and building a basic blog application with two models and basic authentication.
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version - 3.0.0
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
